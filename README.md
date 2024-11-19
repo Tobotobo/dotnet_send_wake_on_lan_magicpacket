@@ -17,3 +17,11 @@ Description:
 オプション:  
 　--version      バージョンを表示します。  
 　-?, -h, --help ヘルプを表示します。  
+
+## ビルド
+
+### Windows x64
+```
+dotnet publish -r win-x64
+```
+※要 Desktop development with C++ workload
